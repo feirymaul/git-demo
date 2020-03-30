@@ -2,7 +2,6 @@
 
 This is the first file
 
-##IPSUM below
+##WEBSITE CONTENTS
 
-BLAH BLAH BLAH 
-more epsum blah blah
+contains hello world
